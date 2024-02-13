@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    text-align: center;
+    margin-top: 30px;
+}
+.Happy{
+    font-family: fantasy;
+    font-weight: normal;
+    margin-top: 20px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+
+}
+.click-container{
+    width: 350px;
+    height: 220px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 0 5px 2px rgb(0, 0, 0);
+}
+.btn-ClickToRead{
+    width: 250px;
+    height: 55px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 15px, 0;
+    color: black;
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: pink;
+}
+body{
+    background-color: pink;
+}
+.btn-ClickToWatch{
+    width: 250px;
+    height: 55px;
+    margin: auto;
+    margin-top: 40px;
+    padding: 15px, 0;
+    color: black;
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: pink;
+}
+.pic{
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+}
